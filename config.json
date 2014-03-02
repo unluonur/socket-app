@@ -2,8 +2,10 @@
 	"cluster": {
 		"size": 4
 	},
+	
 	"app": {
 		"port": 3000,
+
 		"redisPub": {
 			"host": "localhost",
 			"port": 6379
